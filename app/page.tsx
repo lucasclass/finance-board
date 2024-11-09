@@ -9,7 +9,7 @@ export default async function Home() {
   }
 
   return (
-    <section className="h-full flex items-center justify-center">
+    <section className="flex h-full items-center justify-center">
       <UserButton showName />
     </section>
   );
